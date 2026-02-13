@@ -66,11 +66,3 @@ Este repositório faz parte da minha construção de carreira na área de dados,
 O objetivo é evoluir de fundamentos de programação para projetos completos de análise de dados.
 
 ---
-
-## Próximos Passos
-
-- aprender lógica básica em Python  
-- trabalhar com estruturas de dados  
-- iniciar manipulação de dados com bibliotecas analíticas  
-- evoluir para análises exploratórias (EDA)  
-- desenvolver projetos práticos orientados a dados
